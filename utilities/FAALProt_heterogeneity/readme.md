@@ -512,6 +512,14 @@ Branches are colored by the **unique** phylum if all descendants share it; other
 For each `(subset, dimension, epochs)` configuration, FAALProt reports the Pearson correlation $r_{xy}$ between identity and cosine similarity. Higher absolute values of $r_{xy}$ indicate that the embedding space more faithfully reflects alignment similarity patterns. This can guide the choice of embedding dimension and training epochs.
 
 ---
+## Reference
+
+**If you use the FAALPred heterogeneity repository, please cite the following article and this repository:**
+
+Diversity of FAAL enzymes and prediction of their substrate specificity using FAALPred
+DOI: 10.1002/pro.70468. Authors: Leandro de Mattos Pereira†, Anne Liong†, and Pedro Leão. †These authors contributed equally to this work. Protein Science, 2026 (Article in production)
+
+###
 
 ## 12. References
 
